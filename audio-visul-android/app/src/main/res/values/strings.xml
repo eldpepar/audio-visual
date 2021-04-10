@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">audio-visul-android</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <drawable name="blue">#5dd5fe</drawable>
+
+    <drawable name="yellow">#ef7742</drawable>
+
+    <drawable name="green">#baeeba</drawable>
+</resources>

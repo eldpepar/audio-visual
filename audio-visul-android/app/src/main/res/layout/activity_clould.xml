@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical"
+    tools:context=".actvity.ClouldActivity">
+
+    <com.hjq.bar.TitleBar
+        android:id="@+id/mTitleBar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimaryDark"
+        app:bar_style="transparent"
+        app:icon_back="false"
+        app:title="云音乐列表" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal">
+
+        <com.quinny898.library.persistentsearch.SearchBox
+            android:id="@+id/searchbox"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.quinny898.library.persistentsearch.SearchBox>
+
+    </LinearLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_music"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="3dp" >
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>

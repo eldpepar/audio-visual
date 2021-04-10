@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.MusicFragment">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textStyle="bold"
+        android:text="选择音乐接口"
+        android:gravity="center"
+        android:textSize="30dp">
+    </TextView>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp">
+        <ListView
+            android:id="@+id/lv_music"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp" />
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</FrameLayout>

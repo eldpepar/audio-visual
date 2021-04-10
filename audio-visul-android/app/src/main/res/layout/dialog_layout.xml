@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="400dp"
+    android:layout_height="200dp">
+
+
+    <TextView
+        android:id="@+id/tv_titile"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:text="提示"
+        android:textColor="#5dd5fe"
+        android:background="@drawable/singleline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ListView
+        android:id="@+id/lv_check"
+        android:textStyle="bold"
+        android:textColor="#101010"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/singleline_white"/>
+
+    <TextView
+        android:padding="10dp"
+        android:id="@+id/tv_confirm"
+        android:textStyle="bold"
+        android:textColor="#5dd5fe"
+        android:textSize="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="确定"
+        android:gravity="center" />
+</LinearLayout>
