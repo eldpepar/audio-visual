@@ -34,3 +34,4 @@ state：1
 
 8.在**audio-visul-android**项目中，找到**utils**包下的**Constants**，**配置URL**为后端部署的地址
 
+9.项目中需要视频解析地址，请自行添加。
