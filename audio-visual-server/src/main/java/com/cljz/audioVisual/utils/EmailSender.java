@@ -22,7 +22,7 @@ public class EmailSender {
     private List<MimeBodyPart> attachments = new ArrayList<MimeBodyPart>();
 
     private EmailSender() {
-        EmailSender.config(EmailSender.SMTP_163(false), "robinhongyan@163.com", "RICFGHQXKBUPWBQN");
+        EmailSender.config(EmailSender.SMTP_163(false), "发送的邮箱地址", "公共密码");
     }
 
     public static Properties defaultConfig(Boolean debug) {

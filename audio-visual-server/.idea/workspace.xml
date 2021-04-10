@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e83127b-d2c9-42d5-aa25-3ac61975e3ab" name="Default Changelist" comment="" />
+    <list default="true" id="6e83127b-d2c9-42d5-aa25-3ac61975e3ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../audio-visual-manager/vue_visual_system/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../audio-visual-manager/vue_visual_system/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cljz/audioVisual/utils/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cljz/audioVisual/utils/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1kSKDeOFmRo6cYPxKcxW61FDU9a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -184,6 +192,8 @@
       <workItem from="1617445500743" duration="284000" />
       <workItem from="1617611478374" duration="351000" />
       <workItem from="1617615350785" duration="738000" />
+      <workItem from="1618028614403" duration="1350000" />
+      <workItem from="1618031219710" duration="153000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605775123711</created>
