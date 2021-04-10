@@ -42,7 +42,7 @@ public class MovieFragment extends Fragment {
 
     private String choseInter = "";
     private String base_url = "https://v.qq.com/";
-    private String rold_url = "https://www.h8jx.com/jiexi.php?url=";
+    private String rold_url = "";
 
     private String urls[];
 

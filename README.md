@@ -2,7 +2,7 @@
 
 ## 使用指南
 
-### 1.项目运行指南
+### 项目运行指南
 
 1.在数据库中建立一个名为**audio-visual**的数据库，数据库的**字符集**选择为**utf8mb4**，**排列规则**选择为**utf8mb4_general_ci** ，并且运行**audio-visual.sql**文件，**导入数据表**
 
@@ -12,7 +12,7 @@
 
 3.启动后台项目audio-visual-server
 
-4.如果没有安装vue的运行环境需要安装，使用**npm install**安装项目需要的**依赖**，安装完成后**运行npm run dev**
+4.如果没有安装vue的运行环境需要安装，使用**npm install**安装a**udio-visual-manager**项目需要的**依赖**，安装完成后**运行npm run dev**
 
 5.运行完成后，使用浏览器访问http://localhost:8080/进入管理系统
 
@@ -31,4 +31,6 @@ state：1
 ```
 
 7.在后端项目中配置了邮箱发送的工具类EmailSender，但项目中没有使用，可以自行申请邮箱服务，加入到项目中
+
+8.在**audio-visul-android**项目中，找到**utils**包下的**Constants**，**配置URL**为后端部署的地址
 
