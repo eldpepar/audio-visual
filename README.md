@@ -1,8 +1,8 @@
 # 基于Vue及Springboot的影音播放软件
 ### 技术栈
-![](https://img.shields.io/badge/-Vue.js-oringe?style=flat-square&logo=vue.js)
-![](https://img.shields.io/badge/-Springboot-oringe?style=flat-square&logo=springboot)
-![](https://img.shields.io/badge/-Android-oringe?style=flat-square&logo=android)
+![](https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6-Vue.js-brightgreen)
+![](https://img.shields.io/badge/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6-SpringBoot-orange)
+![](https://img.shields.io/badge/%E7%A7%BB%E5%8A%A8%E7%AB%AF-Android-yellow)
 
 ### 部署指南
 因为项目一开始是推送在gitee上，所以项目的[部署指南](https://gitee.com/eldpe/audio-visual)也在gitee上进行了详细的说明，为了节省时间，这里直接用了gitee上的部署指南。
