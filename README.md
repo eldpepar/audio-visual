@@ -28,7 +28,7 @@
 ```
 id:825505787236319232
 name:admin
-password：$10$C26R9odKQh/skIE7qEjL3u6KQK6INPZbZ31zN1DnIMBbm27bhqWiS
+password：$10$59LBEWYkwOT5mixzfulVrOrvahdgiJ6kt5C8soA4JXT0pgFequtKG
 role:role_root
 avatar：图片的地址
 email：管理员的邮箱
